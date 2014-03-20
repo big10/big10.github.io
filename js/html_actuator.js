@@ -132,7 +132,7 @@ HTMLActuator.prototype.message = function (won) {
     message = messages[Math.floor(Math.random()*messages.length)];
   }
   else {
-    message = "State School";
+    message = "You dropped out!";
   }
 
   this.messageContainer.classList.add(type);

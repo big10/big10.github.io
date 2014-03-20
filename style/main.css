@@ -338,23 +338,18 @@ hr {
   .tile.tile-128 .tile-inner {
     background: #edcf72 url('../img/purdue.png');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
   .tile.tile-256 .tile-inner {
     background: #edcc61 url('../img/PSU.png');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
   .tile.tile-512 .tile-inner {
     background: #edc850 url('../img/Illinois.gif');
-    background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
+    background-size: cover;=
   .tile.tile-1024 .tile-inner {
     background: #edc53f url('../img/Michigan.gif');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
   .tile.tile-2048 .tile-inner {
     background: #edc22e url('../img/NU.png');
     background-size: cover;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;

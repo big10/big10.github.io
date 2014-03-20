@@ -144,7 +144,7 @@ hr {
     opacity: 1; } }
 
 .game-container {
-  margin-top: 20px;
+  margin-top: 40px;
   position: relative;
   padding: 15px;
   cursor: default;
@@ -153,8 +153,9 @@ hr {
   -moz-user-select: none;
   background: #bbada0;
   border-radius: 6px;
-  width: 260px;
-  height: 260px;
+  width: 500px;
+  height: 500px;
+  -ms-touch-action: none;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
@@ -179,16 +180,15 @@ hr {
       font-weight: bold;
       height: 60px;
       line-height: 60px;
-      margin-top: 40px; }
+      margin-top: 222px; }
     .game-container .game-message .lower {
       display: block;
-      margin-top: 20px; }
+      margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
       background: #8f7a66;
       border-radius: 3px;
       padding: 0 20px;
-      margin-top: 10px;
       text-decoration: none;
       color: #f9f6f2;
       height: 40px;

@@ -325,16 +325,16 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner { 
     background: #f2b179 url('../img/Iowa.png');
-    background-size: cover;
+    background-size: cover; }
   .tile.tile-16 .tile-inner {
     background: #f59563 url('../img/Nebraska.gif');
-    background-size: cover;
+    background-size: cover; }
   .tile.tile-32 .tile-inner {
     background: #f67c5f url('../img/UChicago.png');
-    background-size: cover;
+    background-size: cover; }
   .tile.tile-64 .tile-inner {
     background: #f65e3b url('../img/Wisconsin.png');
-    background-size: cover;
+    background-size: cover; }
   .tile.tile-128 .tile-inner {
     background: #edcf72 url('../img/purdue.png');
     background-size: cover;

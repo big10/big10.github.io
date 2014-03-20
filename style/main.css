@@ -316,14 +316,14 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-  background: #f0f url('../img/osu.gif');
+  background: #eee4da url('../img/OSU.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-  background: #f0f url('../img/Nebraska.png');
+    background: #ede0c8 url('../img/Nebraska.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile-8 .tile-inner {
+  .tile.tile-8 .tile-inner { 
     color: #f9f6f2;
     background: #f2b179; }
   .tile.tile-16 .tile-inner {

@@ -383,13 +383,13 @@ hr {
 
         // Media queries placed here to avoid carrying over the rest of the logic
         @include smaller($mobile-threshold) {
-          font-size: 0px;
+          font-size: 25px;
         }
       } @else if $power >= 1000 {
         font-size: 35px;
 
         @include smaller($mobile-threshold) {
-          font-size: 0px;
+          font-size: 15px;
         }
       }
     }
